@@ -4,7 +4,7 @@
 
 loadParameters
 
-load manualParamsGAS
+%load manualParamsGAS
 
 % Define data replay and open model template
 
