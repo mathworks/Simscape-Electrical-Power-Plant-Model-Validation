@@ -29,7 +29,7 @@ Options.MethodOptions.TolFun = 1e-12;
 Options.MethodOptions.MaxIter = 1000;
 Options.MethodOptions.OutputFcn = @outfun;
 Options.MethodOptions.TolCon =  1e-12;
-Options.MethodOptions.UseParallel =  0;
+Options.MethodOptions.UseParallel =  true;
 
 %% Estimate the Parameters
 %
